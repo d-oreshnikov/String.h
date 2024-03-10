@@ -5,7 +5,6 @@ Implementation of String.h library on C
 
 0. [Information](#information)
 1. [String.h Functions](#stringh-functions)
-2. [Matrix operations](#matrix-operations)
 
 
 ## Information
